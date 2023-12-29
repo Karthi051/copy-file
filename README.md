@@ -28,7 +28,12 @@ with open("copytxt",'w') as fp1:
     fp1.write(msg1)
 
 ### OUTPUT:
-![image](https://github.com/Karthi051/copy-file/assets/148327224/15170fe0-54a2-49b0-ac59-b780d6fa8095)
+![image](https://github.com/Karthi051/copy-file/assets/148327224/c6a64f67-1625-45f8-af64-7c203adf073e)
+![image](https://github.com/Karthi051/copy-file/assets/148327224/da86f040-04d0-4ab0-b94a-686dbbc9a7ea)
+![image](https://github.com/Karthi051/copy-file/assets/148327224/ef3bba88-0f97-4cfd-befb-d5e2018d3255)
+
+
+
 
 
 
